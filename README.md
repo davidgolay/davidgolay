@@ -1,16 +1,17 @@
-<h1>🗨️ Bonjour et bienvenue sur mon GitHub</h1></br>
-
-<h2>Qui suis-je?</h2>
-<ul>
-    <li><b>Motion Designer</b> auto-entrepreneur  | <b>Concepteur de vidéos</b> institutionnelles animées</li>
-    <li><b>Etudiant</b> en reconversion préparant un DUT Informatique (Dijon)</li>
-    <li> <b>Affamé</b> de problèmes à résoudre</li>
-    <li> <b>Enthousiaste</b> sociable et plaisanteur</li>
-</ul>
+<h1>🗨️ Bienvenue sur mon GitHub</h1></br>
 
 <p align="left">
-Ayant commencé dans le milieu du cinéma d'animation 3D, j'ai décidé de passer de l'autre côté de l'écran. J'y découvre avec beaucoup de curiosité les ressorts de l'informatique. De nombreuses disciplines couvertes par ce domaine aussi vaste que captivant, génère en moi de nouvelles perspectives. Mes préférences s'articulent autour de l'UI et l'UX mais aussi de la programmation, qui par ses impératifs logiques attise une passion certaine en moi.
+<i>Ayant commencé dans le milieu du cinéma d'animation 3D, j'ai décidé de passer de l'autre côté de l'écran. J'y découvre avec beaucoup de curiosité les ressorts de l'informatique. De nombreuses disciplines couvertes par ce domaine aussi vaste que captivant, génère en moi de nouvelles perspectives. Mes préférences s'articulent autour de l'UI et l'UX mais aussi de la programmation, qui par ses impératifs logiques attise une passion certaine en moi.
+</i>
 </p>
+
+<h2>Qui suis-je ?</h2>
+<ul>
+    <li><b> 🧑‍🎨 Un Motion Designer</b> auto-entrepreneur  | <b>Concepteur de vidéos</b> institutionnelles animées</li>
+    <li><b> 🧑‍🎓 Un Etudiant</b> en reconversion préparant un DUT Informatique (Dijon)</li>
+    <li> <b>🧑‍🔬 Un curieux affamé</b> de problèmes à résoudre</li>
+    <li> <b>🧑‍🚀 Un enthousiaste</b> sociable et plaisanteur</li>
+</ul>
 
 <h2>Mon parcours</h2>
 <b> 🎓 Bacchalauréat Scientifique </b> | Lycée Stephen Liegard, Brochon | 2011-2014
