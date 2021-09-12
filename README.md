@@ -14,7 +14,7 @@
     <li> <b>🧑‍🚀 Un enthousiaste</b> sociable et plaisanteur</li>
 </ul>
 
-###
+</br>
 
 <h2>Mon parcours</h2>
 <b> 🎓 Bacchalauréat Scientifique </b> | Lycée Stephen Liegard, Brochon | 2011-2014
@@ -54,7 +54,7 @@
 </ul>
 
 
-###
+</br>
 
 <h2> 📱 Contactez-moi !</h2>
 <ul>
