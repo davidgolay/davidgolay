@@ -42,12 +42,12 @@
       <ul>
           <li><a href="https://github.com/davidgolay/Ub-Covoit"> Ub'Covoit :  Site de covoiturage étudiant </a><i>(PHP, CSS, SQL)</i>
              <ul>
-                  <li> 🎖️ 5ème/120 élèves</li>
+                  <li> 🎖️ 5ème/125 élèves</li>
              </ul>    
           </li>
           <li><a href="https://github.com/dept-info-iut-dijon/2020-2021_PTS2_A1-1">Projax :  Progiciel de Gestion de projet </a><i>(JavaFX, Scene Builder)</i> 
               <ul>
-                <li> 🥇1er/120 élèves </li>
+                <li> 🥇1er/122 élèves </li>
               </ul>
           </li> 
       </ul>
