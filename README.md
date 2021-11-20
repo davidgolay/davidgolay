@@ -58,7 +58,7 @@
 
 <h2> 📱 Contactez-moi !</h2>
 <ul>
-    <li><b>Email : </b> <a href = "davidgolayCGI@outlook.com">davidgolayCGI@outlook.com</a></li>
+    <li><b>Email : </b> <a href = "dg447135@iut-dijon.u-bourgogne.fr">dg447135@iut-dijon.u-bourgogne.fr</a></li>
     <li><b>Téléphone : </b> 06 10 09 98 02 </li>
 </ul>
 
