@@ -37,7 +37,7 @@
 <b> 🔄 DUT Informatique </b> | Dijon | ⚠️ 2020 ---> 2022 ⚠️
 <ul>
     <li> 🖤 <b> Matières préférées : </b> POO / IHM / BDD / Système </li>
-    <li> <b> 📉 Langages : </b> Java, Pascal, SQL, HTML/CSS, PHP,  ...  <i> C++, JavaScript </i>
+    <li> <b> 📉 Langages : </b> C#, Java, Pascal, SQL, HTML/CSS, PHP,  ...  <i> C++, JavaScript </i>
     <li> 🖱️ <b> Projets Tutorés : </b>  
       <ul>
           <li><a href="https://github.com/davidgolay/Ub-Covoit"> Ub'Covoit :  Site de covoiturage étudiant </a><i>(PHP, CSS, SQL)</i>
