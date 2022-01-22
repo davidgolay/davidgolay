@@ -57,7 +57,7 @@
                  <li> Développement d'une bibliothèque d’éléments graphiques dynamiques </li>
               </ul>
           </li>
-          <li><a href="https://github.com/Virtual-Relection">Virtual Reflection : Escape Room en Réalité Virtuelle </a><i>(Unity, C#, OpenXR)</i> 
+          <li><a href="https://github.com/davidgolay/Virtual-Reflection">Virtual Reflection : Escape Room en Réalité Virtuelle </a><i>(Unity, C#, OpenXR)</i> 
               <ul>
                 <li> 🥇20ème/122 élèves </li>
                  <li> Développeur, Game Designer, Artiste 3D </li>
