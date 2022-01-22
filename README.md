@@ -2,16 +2,17 @@
 
 
 <p align="left">
-<i>Ayant commencé dans le milieu du cinéma d'animation 3D, j'ai décidé de passer de l'autre côté de l'écran. J'y découvre avec beaucoup de curiosité les ressorts de l'informatique. De nombreuses disciplines couvertes par ce domaine aussi vaste que captivant, génère en moi de nouvelles perspectives. Mes préférences s'articulent autour de l'UI et l'UX mais aussi de la programmation, qui par ses impératifs logiques attise une passion certaine en moi.
+<i>Ayant commencé dans le milieu du cinéma d'animation 3D, j'ai décidé de passer de l'autre côté de l'écran. J'y découvre avec beaucoup de curiosité les ressorts de l'informatique. De nombreuses disciplines couvertes par ce domaine aussi vaste que captivant, génère en moi de nouvelles perspectives. Mes préférences s'articulent autour du développement full stack et développement d'application métier.
 </i>
 </p>
 
 <h2>Qui suis-je ?</h2>
 <ul>
-    <li><b> 🧑‍🎨 Un Motion Designer</b> auto-entrepreneur  | <b>Concepteur de vidéos</b> institutionnelles animées</li>
+    <li><b> 🧑‍🎨 Anciennement Motion Designer</b> auto-entrepreneur  | <b>Concepteur de vidéos</b> institutionnelles animées</li>
     <li><b> 🧑‍🎓 Un Etudiant</b> en reconversion préparant un DUT Informatique (Dijon)</li>
     <li> <b>🧑‍🔬 Un curieux affamé</b> de problèmes à résoudre</li>
     <li> <b>🧑‍🚀 Un enthousiaste</b> sociable et plaisanteur</li>
+    <li> <b>🧑🎯 Obejctif</b> Full Stack Developper</li>
 </ul>
 
 </br>
@@ -42,12 +43,28 @@
       <ul>
           <li><a href="https://github.com/davidgolay/Ub-Covoit"> Ub'Covoit :  Site de covoiturage étudiant </a><i>(PHP, CSS, SQL)</i>
              <ul>
-                  <li> 🎖️ 5ème/125 élèves</li>
+                  <li> 🎖️ 5ème/125 élèves </li>
+                  <li> Chef de projet & Développeur Full Stack (MySQL, PHP, HTML) </li>
+                 <li> Modélisation conceptuelle et logique des données </li>
+                 <li> Développement et sécurisation (inscription, recherche, proposition de trajet…) </li>
              </ul>    
           </li>
           <li><a href="https://github.com/dept-info-iut-dijon/2020-2021_PTS2_A1-1">Projax :  Progiciel de Gestion de projet </a><i>(JavaFX, Scene Builder)</i> 
               <ul>
                 <li> 🥇1er/122 élèves </li>
+                 <li> Chef de projet & développeur de l'application (Java, JavaFX) </li>
+                 <li> Conception intégrale de l’Interface Graphique (JavaFX / Scene Builder) </li>
+                 <li> Développement d'une bibliothèque d’éléments graphiques dynamiques </li>
+              </ul>
+          </li>
+          <li><a href="https://github.com/Virtual-Relection">Virtual Reflection : Escape Room en Réalité Virtuelle </a><i>(Unity, C#, OpenXR)</i> 
+              <ul>
+                <li> 🥇20ème/122 élèves </li>
+                 <li> Développeur, Game Designer, Artiste 3D </li>
+                 <li>  Conception et Développement C# (objets interactifs, logique d’énigmes, déplacements…) </li>
+                 <li> Simulation de la VR au clavier souris et gestion des Inputs VR </li>
+                  <li> Implémentation et surcharge des technologies XR </li>
+                  <li> Game Design et création intégrale de l’environnement 3D </li>
               </ul>
           </li> 
       </ul>
