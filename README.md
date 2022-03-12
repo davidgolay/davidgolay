@@ -12,7 +12,7 @@
     <li><b> 🧑‍🎓 Un Etudiant</b> en reconversion préparant un DUT Informatique (Dijon)</li>
     <li> <b>🧑‍🔬 Un curieux affamé</b> de problèmes à résoudre</li>
     <li> <b>🧑‍🚀 Un enthousiaste</b> sociable et plaisanteur</li>
-    <li> <b>🧑🎯 Obejctif</b> Full Stack Developper</li>
+    <li> <b>🧑🎯 Obejctif</b> Front-End Developper / Full Stack Developper</li>
 </ul>
 
 </br>
